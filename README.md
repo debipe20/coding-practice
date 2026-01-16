@@ -24,7 +24,7 @@ The repository may include (but is not limited to):
 
 ## Structure
 
-The code is organized into folders based on topic, problem type, or language.
+The code is organized into folders based on company name, position name, problem type, or language.
 Each solution typically includes:
 
 * A clear problem statement (as comments or documentation)
@@ -33,8 +33,8 @@ Each solution typically includes:
 
 ## How to Use
 
-* Browse folders by topic or language
-* Review solutions and explanations
+* Browse folders by company name and role 
+* Review solutions and explanations (if available)
 * Run or modify the code locally to experiment
 * Use the problems as practice or reference material
 
@@ -46,8 +46,11 @@ Each solution typically includes:
 
 ## Disclaimer
 
-This repository is intended for educational and practice purposes.
-Problem statements may be adapted from common interview-style or publicly available sources.
+This repository is intended for educational and practice purposes only.
+Problem statements may be adapted from common interview-style questions or publicly available sources.
+
+Solutions are provided for learning and reference. Please review and validate them independently before use. The repository owner is not responsible for any incorrect or incomplete solutions.
+
 
 ---
 
